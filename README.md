@@ -3,6 +3,7 @@ This code has Python Backend code for URL shortener
 
 
 #Steps to execute
+
 Step 1 : Execute "routes.py" file and it will start the server  (Link : "http://127.0.0.1:5000/").
 
 Step 2 : i-For encoding any url provide Enter original url value on get request of "http://127.0.0.1:5000/encode".
